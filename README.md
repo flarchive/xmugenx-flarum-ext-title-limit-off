@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of xmugenx/flarum-ext-title-limit-off.** Not for installation: use [Packagist](https://packagist.org/packages/xmugenx/flarum-ext-title-limit-off) or the [upstream repository](https://github.com/xmugenx/flarum-ext-title-off).
 
-**0** versions archived · Latest: [`0.1.1.2`](https://github.com/flarchive/xmugenx-flarum-ext-title-limit-off/tree/archive/v0.1.1.2) · License: `MIT` · Flarum: `^0.1.0`
+**2** versions archived · Latest: [`0.1.1.2`](https://github.com/flarchive/xmugenx-flarum-ext-title-limit-off/tree/archive/v0.1.1.2) · License: `MIT` · Flarum: `^0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-10-17 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-title-limit-off/tree/archive/v0.1.0) |
+| `0.1.1.2` | 2019-10-18 | `^0.1.0` | [Browse](https://github.com/flarchive/xmugenx-flarum-ext-title-limit-off/tree/archive/v0.1.1.2) |
 
 Catalog entry: [packages/xmugenx-flarum-ext-title-limit-off.json](https://github.com/flarchive/archive-index/blob/main/packages/xmugenx-flarum-ext-title-limit-off.json)
 
